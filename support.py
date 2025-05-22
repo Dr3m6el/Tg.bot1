@@ -9,7 +9,7 @@ active_support_sessions = set()
 admin_reply_context = {}
 
 # ID администратора (укажи свой)
-ADMIN_CHAT_ID = 1326404077
+ADMIN_CHAT_ID = 123456789
 
 # Основная клавиатура (если нужно использовать где-то ещё)
 MAIN_INLINE_KEYBOARD = InlineKeyboardMarkup([
